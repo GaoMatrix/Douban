@@ -29,6 +29,14 @@
             android:name=".MainTabActivity"
             android:label="@string/my_douban" >
         </activity>
+        <activity
+            android:name=".MeActivity"
+            android:label="@string/my_douban" >
+        </activity>
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/my_douban" >
+        </activity>
     </application>
 
 </manifest>
